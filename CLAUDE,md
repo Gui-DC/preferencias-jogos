@@ -1,0 +1,49 @@
+# CLAUDE.md — Preferências de Jogos
+
+Repositório pessoal com minhas preferências de jogos, usado como base para
+recomendações. Você (Claude Code) é responsável por editar estes arquivos
+quando eu pedir.
+
+## Idioma
+
+Todo o conteúdo deste repositório é em português. Mantenha assim.
+
+## Estrutura e responsabilidade
+
+| Arquivo | O que é | Você edita? |
+|---|---|---|
+| `README.md` | Visão geral + resumo do meu perfil | Sim, quando o perfil mudar |
+| `prompt-inicial.md` | Protocolo de conversa (pra sessões de chat) | Raramente |
+| `principios.md` | O que define meu gosto + antipadrões | Sim |
+| `jogos/jogados.md` | Jogos jogados/abandonados, nota e impressão | Sim |
+| `jogos/wishlist.md` | Jogos que pretendo jogar, com hipótese | Sim |
+| `nao-recomendar.md` | Jogos descartados, com motivo | Sim |
+| `historico.md` | Changelog de mudanças em princípios | Sim, só ao alterar princípio |
+
+## Regras de edição
+
+- **Siga o template no topo de cada arquivo.** Não invente formato novo nem
+  reordene campos.
+- **Confirme antes de ações destrutivas.** Deletar uma entrada, reescrever uma
+  seção inteira ou mudar a nota de um jogo já registrado exige eu confirmar antes.
+  Adicionar conteúdo novo pode fazer direto.
+- **Nunca reescreva seções inteiras** a não ser que eu peça explicitamente.
+  Edite pontualmente.
+- **Após cada commit, me mostre um resumo curto do que mudou.**
+
+## Regras específicas por arquivo
+
+**`jogos/jogados.md`**
+- Status é `Jogado` ou `Abandonado`.
+- Ao marcar algo como **Abandonado, sempre capture o motivo** no comentário.
+  "Larguei e esqueci" não serve — o porquê é a informação mais útil ali.
+
+**`jogos/wishlist.md`**
+- Toda entrada tem `Prioridade` (1-5) e uma `Hipótese` (por que deve combinar
+  comigo), incluindo riscos possíveis.
+- Quando eu jogar algo que estava aqui: a entrada sai da wishlist e vira uma
+  entrada em `jogados.md`. Antes de remover, registre se a hipótese se
+  confirmou ou não (isso pode virar ajuste em `principios.md`).
+
+**`principios.md`**
+- Cada princípio segue o formato:
