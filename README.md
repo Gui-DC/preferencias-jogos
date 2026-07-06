@@ -41,13 +41,12 @@ Por isso, recomendações devem ser baseadas principalmente nos princípios docu
 
 ## Como este repositório está organizado
 
-- `README.md` (este arquivo) — visão geral rápida
-- `01-principios.md` — hipóteses sobre meu gosto, com nível de confiança
-- `02-evidencias.md` — casos concretos que sustentam (ou contradizem) os princípios
-- `jogos/jogados.md` — jogos que joguei, nota e comentário
-- `jogos/wishlist.md` — jogos que pretendo jogar
-- `jogos/abandonados.md` — jogos que larguei, e por quê
-- `recomendacoes/alta-prioridade.md` / `baixa-prioridade.md` / `nao-recomendar.md`
-- `historico/mudancas-no-perfil.md` — changelog de quando um princípio muda
+- `README.md` (este arquivo) — visão geral e resumo do perfil
+- `prompt-inicial.md` — protocolo de conversa; colar no início de sessões sobre jogos
+- `principios.md` — o que define meu gosto, com relevância e confiança, mais os antipadrões
+- `jogos/jogados.md` — jogos que joguei ou abandonei, com nota, impressão e (nos abandonados) o motivo
+- `jogos/wishlist.md` — jogos que pretendo jogar, com prioridade e hipótese
+- `nao-recomendar.md` — jogos já descartados, com o motivo
+- `historico.md` — changelog de mudanças em princípios (uso pessoal, para auditoria)
 
 Regras de edição e convenções: ver `CLAUDE.md`.
