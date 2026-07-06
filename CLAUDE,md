@@ -47,3 +47,21 @@ Todo o conteúdo deste repositório é em português. Mantenha assim.
 
 **`principios.md`**
 - Cada princípio segue o formato:
+**Nome do princípio**
+
+- Relevância: 1-5
+- Confiança: Alta | Média | Baixa
+- Resumo: uma linha
+- Sustentado por: jogos que evidenciam
+
+- **Não altere um princípio por causa de um único jogo.** Um jogo isolado
+  raramente confirma ou derruba um princípio — espere um padrão de vários casos.
+- Ao mudar a relevância ou confiança de um princípio, **registre em
+  `historico.md`**: o que mudou, de/para, e por quê.
+
+## Fluxo geral
+
+O fluxo completo de conversa (o que perguntar quando eu termino um jogo, como
+recomendar, etc.) está em `prompt-inicial.md`. Consulte-o se precisar de
+contexto sobre o processo — mas na dúvida sobre *como editar um arquivo*, esta
+página manda.
