@@ -51,7 +51,3 @@ Por isso, recomendações devem ser baseadas principalmente nos princípios docu
 - `historico/mudancas-no-perfil.md` — changelog de quando um princípio muda
 
 Regras de edição e convenções: ver `CLAUDE.md`.
-
-## Status
-
-🚧 Em construção — aguardando conteúdo inicial.
