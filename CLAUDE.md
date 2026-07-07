@@ -47,12 +47,17 @@ Todo o conteúdo deste repositório é em português. Mantenha assim.
 
 **`principios.md`**
 - Cada princípio segue o formato:
-**Nome do princípio**
+# Nome do princípio
 
-- Relevância: 1-5
-- Confiança: Alta | Média | Baixa
-- Resumo: uma linha
-- Sustentado por: jogos que evidenciam
+Relevância: 1-5
+Confiança: Alta | Média | Baixa
+Sustentado por: jogos que evidenciam
+
+## Descrição
+(texto)
+
+## Observações / Exceções (opcional)
+(texto)
 
 - **Não altere um princípio por causa de um único jogo.** Um jogo isolado
   raramente confirma ou derruba um princípio — espere um padrão de vários casos.
