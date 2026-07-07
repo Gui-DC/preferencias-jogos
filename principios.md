@@ -55,7 +55,7 @@ Ela apenas precisa permanecer divertida ao longo da campanha.
 
 # Jornada completa
 
-Relevância: 5
+Relevância: 4
 Confiança: Alta
 Sustentado por: The Witcher 3, The Legend of Zelda (Ocarina of Time / BotW / TotK), Warcraft 3 ("campanha maravilhosa, depois de zerar desinstalo"). Exceções: Melvor Idle, MMOs.
 
@@ -106,7 +106,7 @@ Progressão criada apenas para incentivar grind costuma perder valor para mim.
 
 # Atmosfera
 
-Relevância: 4
+Relevância: 3
 Confiança: Alta
 Sustentado por: System Shock, Metro (série), Disco Elysium, Vampire: The Masquerade - Bloodlines, DREDGE, Sunless Sea, Blasphemous
 
@@ -117,7 +117,6 @@ Atmosfera aumenta significativamente meu envolvimento com um jogo.
 Ela é composta pela combinação entre:
 
 - direção de arte
-- trilha sonora
 - ambientação
 - identidade visual
 - identidade do universo
@@ -201,7 +200,7 @@ Dark Souls é um bom exemplo de exceção: gosto muito do jogo apesar de não go
 
 Monetização que dá vantagem por dinheiro me desanima mesmo quando gosto do resto do jogo.
 
-Sustentado por: Tree of Savior (nota 5, "passa a vibe de Ragnarok, mas o p2w me desanimou"), WAKFU (nota 5, "bem legal, mas p2w").
+Sustentado por: Tree of Savior (nota 5/10, "passa a vibe de Ragnarok, mas o p2w me desanimou"), WAKFU (nota 5/10, "bem legal, mas p2w").
 
 ## Conteúdo real só no pós-campanha
 
@@ -231,4 +230,4 @@ Sustentado por: Castlevania: Lords of Shadow (abandonado por esse motivo), séri
 
 Gosto de jogos longos, mas não quando se estendem além do que o conteúdo sustenta.
 
-Sustentado por: Divinity: Original Sin 1 (nota 7, "massante demais, perdeu a mão").
+Sustentado por: Divinity: Original Sin 1 (nota 7, "ótimo jogo, mas massante demais, perdeu a mão").
