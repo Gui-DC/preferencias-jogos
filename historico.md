@@ -20,3 +20,14 @@ Relevância: X → Y (ou Confiança: A → B)
 ### Setup inicial
 Perfil e princípios criados a partir de conversas anteriores e da base de
 jogos avaliados. Sem alterações de princípio registradas ainda.
+
+## 2026-07-06
+### Refinamentos a partir de conversa (ONI, Nioh, MMOs)
+- **Mundo interessante:** acrescentada a noção de mundo conectado/coeso como
+  fator (contraexemplo: Nioh, missões soltas).
+- **Mecânicas profundas:** documentado o teto de complexidade (ONI).
+- **MMOs:** registrado como interesse recorrente (exceção à jornada completa),
+  com p2w como dealbreaker e WoW como exceção.
+- **Novo antipadrão:** "Sandbox aberto / falta de objetivos claros"
+  (ONI, Minecraft, Tropico free-play).
+Nenhuma relevância ou confiança foi alterada nesta rodada.
