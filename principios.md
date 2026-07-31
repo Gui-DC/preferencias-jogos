@@ -143,6 +143,59 @@ identidade do universo
 Atmosfera sozinha raramente sustenta um jogo, mas potencializa bastante uma boa gameplay.
 
 
+Tensão na travessia
+
+Relevância: 3
+Confiança: Média
+Sustentado por: Dark Souls (série), System Shock, Prey, S.T.A.L.K.E.R.:
+Shadow of Chernobyl, Metro (série), Sunless Sea, DREDGE. Contraexemplos:
+Sekiro, Zelda, Sunless Skies.
+
+Descrição
+
+A tensão que mais me envolve vem do deslocamento, não do combate.
+
+Ela aparece quando avançar é um compromisso que custa algo e voltar atrás não
+é barato. Na prática:
+
+- movimentação lenta e deliberada (não dá para contornar o espaço à vontade
+  nem escapar de qualquer situação);
+- algum recurso drenando enquanto avanço;
+- terreno à frente desconhecido, com custo real em errar ou ter que voltar.
+
+Nessas condições, cada área nova é atravessada com cautela e a descoberta vem
+carregada desse peso.
+
+A natureza da pressão é indiferente. Pode ser ameaça de combate (Souls, System
+Shock, STALKER), mas pode ser atrito puro: no DREDGE é a luz acabando, o
+inventário apertado e a distância até o porto; no Sunless Sea é combustível,
+comida e sanidade tanto quanto vida. Letalidade alta e inimigo à espreita são
+uma das formas possíveis, não requisito.
+
+Observações
+
+É amplificador, não requisito — mesma natureza de "Atmosfera". Zelda é meu jogo
+preferido e não tem nada disso (a pegada é aventura, e escalar/planar/teleportar
+tornam o retorno gratuito). Sekiro tirou 9 sem isso. Quando está presente,
+eleva muito; quando falta, não derruba nada.
+
+Não confundir com Atmosfera. Atmosfera é estética (arte, ambientação,
+identidade). Isto é mecânico (mobilidade, recurso, custo de avançar). Costumam
+aparecer juntos — Metro, Sunless Sea e DREDGE têm os dois — mas são
+separáveis: Sekiro tem atmosfera excelente sem a travessia tensa, e dá para
+imaginar o inverso.
+
+Não precisa durar o jogo inteiro, mas se acabar algo tem que assumir o lugar.
+É normal e até esperado ficar poderoso no fim de um RPG. O problema é quando a
+tensão se dissolve e nada ocupa o vazio. No Prey (nota 9) o terço final não
+tem tensão nenhuma e o jogo se sustenta no mundo, no backtracking e nas side
+quests. No Sunless Skies (nota 7) a tensão some e o plano era a lore assumir —
+mas sem embarcar na leitura, sobra ir de ilha em ilha sem nada segurando.
+
+Contraexemplos, por tipo: Sekiro e Zelda nunca tiveram; Sunless Skies teve e
+perdeu sem substituir.
+
+
 Mecânicas profundas
 
 Relevância: 4
