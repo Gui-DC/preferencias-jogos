@@ -30,7 +30,7 @@ Mundo interessante + gameplay divertida
 
 Relevância: 5
 Confiança: Alta
-Sustentado por: System Shock, Deus Ex, Arcanum, Disco Elysium, Fallout: New Vegas, Vampire: The Masquerade - Bloodlines, The Witcher 3. Contraexemplo: Nioh (ótima gameplay, mas mundo fragmentado em missões soltas).
+Sustentado por: System Shock, Deus Ex, Arcanum, Disco Elysium, Fallout: New Vegas, Vampire: The Masquerade - Bloodlines, The Witcher 3, Prey (2017). Contraexemplo: Nioh (ótima gameplay, mas mundo fragmentado em missões soltas).
 
 Descrição
 
@@ -200,7 +200,7 @@ Mecânicas profundas
 
 Relevância: 4
 Confiança: Média
-Sustentado por: Dark Souls (série), Pathfinder: Kingmaker, XCOM: Enemy Unknown, Deus Ex, Nioh. Limite: Oxygen Not Included (complexo demais para o esforço).
+Sustentado por: Dark Souls (série), Pathfinder: Kingmaker, XCOM: Enemy Unknown, Deus Ex, Nioh, Prey (2017). Limite: Oxygen Not Included (complexo demais para o esforço).
 
 Descrição
 
@@ -221,7 +221,7 @@ Exploração recompensadora
 
 Relevância: 3
 Confiança: Média
-Sustentado por: The Legend of Zelda (BotW / TotK), Hollow Knight, System Shock. Contraexemplos (não dependem de exploração): Portal, Half-Life 2, Max Payne.
+Sustentado por: The Legend of Zelda (BotW / TotK), Hollow Knight, System Shock, Prey (2017). Contraexemplos (não dependem de exploração): Portal, Half-Life 2, Max Payne.
 
 Descrição
 
@@ -361,4 +361,4 @@ Arrastar / perder o ritmo
 
 Gosto de jogos longos, mas não quando se estendem além do que o conteúdo sustenta.
 
-Sustentado por: Divinity: Original Sin 1 (nota 7, "ótimo jogo, mas massante demais, perdeu a mão").
+Sustentado por: Divinity: Original Sin 1 (nota 7, "ótimo jogo, mas massante demais, perdeu a mão"), Sunless Skies (nota 7, "arrastado", mesma descrição e mesma nota do Divinity: Original Sin 1).
