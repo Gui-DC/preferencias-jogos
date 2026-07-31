@@ -16,6 +16,7 @@ Todo o conteúdo deste repositório é em português. Mantenha assim.
 | `prompt-inicial.md` | Protocolo de conversa (pra sessões de chat) | Raramente |
 | `principios.md` | O que define meu gosto + antipadrões | Sim |
 | `jogos/jogados.md` | Jogos jogados/abandonados, nota e impressão | Sim |
+| `jogos/backlog.md` | Jogos que possuo mas ainda não joguei (inventário) | Sim |
 | `jogos/wishlist.md` | Jogos que pretendo jogar, com hipótese | Sim |
 | `nao-recomendar.md` | Jogos descartados, com motivo | Sim |
 | `historico.md` | Changelog de mudanças em princípios | Sim, só ao alterar princípio |

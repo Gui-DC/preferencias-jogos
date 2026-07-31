@@ -45,6 +45,7 @@ Por isso, recomendações devem ser baseadas principalmente nos princípios docu
 - `prompt-inicial.md` — protocolo de conversa; colar no início de sessões sobre jogos
 - `principios.md` — o que define meu gosto, com relevância e confiança, mais os antipadrões
 - `jogos/jogados.md` — jogos que joguei ou abandonei, com nota, impressão e (nos abandonados) o motivo
+- `jogos/backlog.md` — jogos que possuo mas ainda não joguei (inventário, não intenção)
 - `jogos/wishlist.md` — jogos que pretendo jogar, com prioridade e hipótese
 - `nao-recomendar.md` — jogos já descartados, com o motivo
 - `historico.md` — changelog de mudanças em princípios (uso pessoal, para auditoria)
