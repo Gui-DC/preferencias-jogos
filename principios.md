@@ -279,6 +279,54 @@ Monetização que dá vantagem por dinheiro me desanima mesmo quando gosto do re
 
 Sustentado por: Tree of Savior (nota 5/10, "passa a vibe de Ragnarok, mas depois de um tempo, sem pagar não progride"), WAKFU (nota 5/10, "bem legal, mas p2w"). Também Tibia e Ragnarok, que abandono ao bater na barreira de pagamento. Exceção: WoW (assinatura, não p2w).
 
+Atrito fabricado / mecânicas de retenção
+
+Escopo: MMO e free-to-play.
+
+Sistemas que não existem para melhorar o jogo, e sim para criar obstáculo
+artificial ou obrigação de comparecimento:
+
+- energia/stamina limitando quanto dá para jogar;
+- login diário e recompensa por presença;
+- taxas de sucesso arbitrariamente baixas com atalho pago (refino a 1% que vira
+  50% com consumível comprado);
+- interface empurrando a loja de dinheiro real o tempo todo;
+- capar mecânicas básicas para a assinatura parecer necessária.
+
+O problema não é a monetização em si — é fabricar o problema para vender a
+solução, ou converter jogar de escolha em compromisso de calendário.
+
+Calibração: no WoW, cosmético e transferência de servidor são aceitáveis,
+porque adicionam sem criar um obstáculo antes. Facilidades tudo bem; fricção
+inventada não.
+
+Intensidade importa: incomodar não é o mesmo que travar. No Path of Exile a
+stash limitada irritava e ia acumulando, mas não foi o que me fez parar (foi
+cansaço e o comércio chato). Nem toda ocorrência é dealbreaker.
+
+Relação com "Pay-to-win": sobrepõem, mas são coisas distintas. P2W é sobre
+vantagem — pagar te deixa mais forte que os outros. Este é sobre desenho — o
+jogo é estruturado em torno de fricção e retenção. Ragnarok mostra que são
+separáveis: tem o problema do refino pago, mas sem energia nem login diário, e
+por isso sigo voltando nele. Quando as duas coisas se somam (Mabinogi), nem
+começo.
+
+Não é sobre o formato do jogo. Melvor Idle é nota 10 e é idle — formato que
+costuma ser o berço dessas mecânicas — mas é compra única, sem energia e sem
+login diário.
+
+Sustentado por: STAR WARS: The Old Republic (abandonado — mecânicas básicas
+atrás de paywall), Mabinogi (descartado sem jogar). Casos parciais: Ragnarok
+(refino pago, mas jogável), Path of Exile (stash apertada, irritação sem ser
+causa do abandono).
+
+Ocorrência fora do escopo: Bloons TD 6 (nota 1, abandonado). É premium e
+single-player, e mesmo assim foi abandonado exatamente por isso — inclusive com
+um agravante: como precisam ter muita coisa para vender, o jogo incha de
+conteúdo e sistema sem necessidade de design. Um caso só não sustenta ampliar o
+escopo; se aparecer um segundo, reavaliar e estender o antipadrão para
+single-player.
+
 Sandbox aberto / falta de objetivos claros
 
 Jogos de mundo ou sistemas abertos, sem objetivos claros ou direção definida, costumam me perder — mesmo quando são divertidos ou bem-feitos. Preciso de propósito e metas, não de liberdade pura. É o inverso do princípio "Jornada completa".
