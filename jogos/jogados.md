@@ -145,3 +145,25 @@ Onboarding. Despeja sistemas demais logo no começo, em vez de pegar na mão e
 apresentar o universo aos poucos como o WoW faz. Deu preguiça. O jogo não é
 ruim e o problema não é o gênero — MMO segue sendo interesse ativo. É
 especificamente ritmo de introdução.
+
+## Ni no Kuni II: Revenant Kingdom
+
+**Nota:** 8
+**Status:** Jogado
+**Impressão:**
+Jogão. Senti pouco grind: o jogo é bem fácil, então era só gostosinho ir
+fazendo as coisas. História levinha, jogo bonitinho — foi muito bom pra
+variar da vibe dark dos jogos que eu vinha jogando.
+Desenvolvi o reino (Evermore) por vontade própria, e bem mais do que
+precisava, porque achava legal ir otimizando. O jogo não travou progresso
+por causa disso. Só tem dois recursos (ouro e cidadãos), então não vira
+trabalho complicado — e foi justamente por ser simples que engajei.
+Olhando cada aspecto isolado, ele fica aquém do que costumo jogar: combate
+bem fácil, gestão do reino sem punição real (escolha errada custa só esperar
+o ouro voltar), exploração simples. Não teve a tensão do Prey nem a
+adrenalina de matar um boss no Hollow Knight.
+Mas o jogo conversa consigo mesmo. Passa uma vibe gostosinha que combina com
+o fato de tudo ser tranquilo de fazer, e o conjunto cria uma aventura boa de
+seguir — eu queria ir acompanhando a história, desenvolvendo o reino,
+explorando. Nenhuma característica é intensa como em outros jogos, mas o
+conjunto funcionou.
