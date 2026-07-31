@@ -18,16 +18,3 @@
 **Riscos:**
 
 ---
-
-## Prey (2017)
-
-**Prioridade:** 5
-**Status:** Adquirido
-**Hipótese:**
-Immersive sim no mesmo veio de System Shock e Deus Ex — bate forte em "mundo
-interessante + gameplay divertida" (rel. 5), atmosfera (rel. 3) e liberdade de
-resolução de problemas. Alta chance de combinar.
-**Riscos:**
-Combate é frequentemente citado como o ponto mais fraco; se a gameplay
-momento-a-momento não segurar, pode pesar. Mas o precedente de System Shock
-sugere que o mundo compensa.
