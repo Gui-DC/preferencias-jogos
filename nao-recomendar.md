@@ -25,3 +25,16 @@ busco.
 **Princípio/antipadrão relacionado:**
 Antipadrão "conteúdo real só no pós-campanha". Também tensiona "Jornada
 completa" (relevância 4).
+
+## Mabinogi
+
+**Motivo:**
+Descartado sem jogar. Vibe de jogo mobile: interface entulhada empurrando a
+loja de dinheiro real, e principalmente o pacote de energia/stamina, login
+diário e recompensa por presença. Não é a monetização em si que incomoda — é o
+jogo fabricar o problema para vender a solução e transformar jogar em
+compromisso de calendário.
+
+**Princípio/antipadrão relacionado:**
+Antipadrão "Atrito fabricado / mecânicas de retenção". Tangencia "Pay-to-win",
+mas o problema aqui é o desenho, não a vantagem competitiva.
