@@ -207,3 +207,29 @@ ao mesmo tempo em que ele se aprofunda. E a resolução é muito satisfatória:
 faz 100% de sentido, tem peso, impacto e emoção.
 Tudo o resto por si só já faria um jogo 10. A história é o que coloca ele
 acima de tudo.
+
+## The Elder Scrolls V: Skyrim Special Edition
+
+**Nota:** 8
+**Status:** Jogado
+**Impressão:**
+Já tinha abandonado anos atrás por me perder em side quests infinitas e nunca
+terminar. Dessa vez voltei disposto a focar mais.
+Bom jogo, me diverti. O loop de missão, exploração, vender item, upar e
+refazer é show. Joguei ~40h feliz, explorei uns 80% do mapa e fiz uma DLC
+inteira — rende muito.
+Onde pecou: nenhuma missão me pareceu realmente interessante. E como o jogo é
+massivo, eu tropeçava no conteúdo fora de ordem — chegava ao fim de uma
+dungeon e só então pensava "acho que devia ter uma quest aqui", e
+possivelmente tinha; eu só tinha achado a dungeon antes da quest. Sem o
+contexto da quest, a dungeon vira corredor com loot no fim.
+No fim, com todos os melhores itens upados e encantados, a progressão acabou
+— e a exploração perdeu o propósito junto, porque explorar ali paga em item e
+level. As quests deveriam assumir o papel de me puxar adiante e não
+instigaram. Aí resolvi só terminar a main quest e fechar o jogo.
+Importante para calibrar a nota: reclamo porque foi o que me fez encerrar,
+mas foram 40h ótimas. Foi ótimo enquanto durou; cansou quando a exploração
+perdeu o propósito.
+Nota: recusei virar lobisomem e por isso abandonei a linha dos Companions no
+meio. Encontrei a entrada do Colégio de Winterhold já na hora de encerrar e
+pulei. Não fiz nenhuma linha de facção inteira.
