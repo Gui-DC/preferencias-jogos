@@ -55,3 +55,17 @@ nem "o jogo cobra": é o jogo fabricar um problema para vender a solução
 jogar em obrigação de calendário (login diário). Distinto de P2W: P2W é sobre
 vantagem, este é sobre desenho. Escopo limitado a MMO/F2P por ora — só existe
 um caso fora dele (Bloons TD 6), e um caso não faz padrão.
+
+## 2026-09-24
+### Mistérios com conclusão
+Relevância: 2 → 3 | Confiança: Média (sem alteração)
+**Motivo:**
+Clair Obscur: Expedition 33 virou meu jogo preferido, tomando o lugar de
+Zelda, e o que o colocou acima foi justamente a história — Zelda ganha em
+exploração e puzzles, mas tem história mediana. Somado a Sunless Sea e Disco
+Elysium, o princípio passa a ter três casos, dois deles nota 10.
+Subiu para 3 e não mais porque continua sendo amplificador, não requisito:
+Zelda foi meu favorito por anos com história mediana e Dark Souls funciona com
+narrativa fragmentada. Fica no mesmo nível dos outros amplificadores
+(Atmosfera e Tensão na travessia, ambos 3).
+Descrição e critério mantidos sem alteração.
