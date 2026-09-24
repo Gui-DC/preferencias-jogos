@@ -30,7 +30,7 @@ Mundo interessante + gameplay divertida
 
 Relevância: 5
 Confiança: Alta
-Sustentado por: System Shock, Deus Ex, Arcanum, Disco Elysium, Fallout: New Vegas, Vampire: The Masquerade - Bloodlines, The Witcher 3, Prey (2017). Contraexemplo: Nioh (ótima gameplay, mas mundo fragmentado em missões soltas).
+Sustentado por: System Shock, Deus Ex, Arcanum, Disco Elysium, Fallout: New Vegas, Vampire: The Masquerade - Bloodlines, The Witcher 3, Prey (2017), Clair Obscur: Expedition 33. Contraexemplo: Nioh (ótima gameplay, mas mundo fragmentado em missões soltas).
 
 Descrição
 
@@ -149,7 +149,8 @@ Relevância: 3
 Confiança: Média
 Sustentado por: Dark Souls (série), System Shock, Prey, S.T.A.L.K.E.R.:
 Shadow of Chernobyl, Metro (série), Sunless Sea, DREDGE. Contraexemplos:
-Sekiro, Zelda, Sunless Skies.
+Sekiro, Zelda, Sunless Skies, Clair Obscur (nota 10, exploração sem risco
+nenhum).
 
 Descrição
 
@@ -221,7 +222,7 @@ Exploração recompensadora
 
 Relevância: 3
 Confiança: Média
-Sustentado por: The Legend of Zelda (BotW / TotK), Hollow Knight, System Shock, Prey (2017). Contraexemplos (não dependem de exploração): Portal, Half-Life 2, Max Payne.
+Sustentado por: The Legend of Zelda (BotW / TotK), Hollow Knight, System Shock, Prey (2017), Clair Obscur: Expedition 33 (exploração sem risco nenhum, sustentada por cenário interessante e recompensa garantida no fim). Contraexemplos (não dependem de exploração): Portal, Half-Life 2, Max Payne.
 
 Descrição
 
@@ -251,9 +252,9 @@ Quando a exploração importa, ela depende de um mundo conectado — ver a obser
 
 Mistérios com conclusão
 
-Relevância: 2
+Relevância: 3
 Confiança: Média
-Sustentado por: Disco Elysium, Sunless Sea. Exceção relevante: Dark Souls.
+Sustentado por: Disco Elysium, Sunless Sea, Clair Obscur: Expedition 33. Exceção relevante: Dark Souls.
 
 Descrição
 
