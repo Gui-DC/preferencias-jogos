@@ -69,3 +69,16 @@ Zelda foi meu favorito por anos com história mediana e Dark Souls funciona com
 narrativa fragmentada. Fica no mesmo nível dos outros amplificadores
 (Atmosfera e Tensão na travessia, ambos 3).
 Descrição e critério mantidos sem alteração.
+
+## 2026-09-24
+### Novo princípio: Fio condutor que não se esgota
+Relevância: — → 4 | Confiança: — → Alta
+**Motivo:**
+Padrão observado em três jogos, por caminhos diferentes, com o mesmo mecanismo:
+o motor que puxava adiante (tensão, progressão ou curiosidade) se esgotou e
+nada assumiu o lugar. Prey é o caso positivo (tensão some, mundo assume),
+Sunless Skies e Skyrim os negativos. Confiança Alta porque são três casos
+independentes, com o mecanismo explicitado pelo próprio relato em cada um, e
+porque explica notas que os princípios existentes não explicavam sozinhos.
+Relevância 4 e não 5 porque nos três casos o jogo ainda foi bem avaliado
+(7, 8 e 9) — encurta a experiência, não a invalida.
