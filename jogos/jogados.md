@@ -167,3 +167,43 @@ o fato de tudo ser tranquilo de fazer, e o conjunto cria uma aventura boa de
 seguir — eu queria ir acompanhando a história, desenvolvendo o reino,
 explorando. Nenhuma característica é intensa como em outros jogos, mas o
 conjunto funcionou.
+
+## Clair Obscur: Expedition 33
+
+**Nota:** 10
+**Status:** Jogado
+**Impressão:**
+Simplesmente o melhor jogo que já joguei na vida, de longe. Se a escala
+permitisse, seria 1000/10. Não tem defeitos.
+Tomou o lugar de Zelda como meu jogo preferido. Zelda ganha em outros
+aspectos — a exploração é melhor, os puzzles são muito bons —, mas a história
+de Zelda normalmente é média, e aqui ela é fenomenal.
+Gameplay: uma das mais divertidas que já joguei (não a melhor, mas sem
+dúvida uma das). O combate é por turno, mas as reações mantêm o foco o tempo
+todo. Muito criativo num gênero que costuma ser mais travado. Dá para montar
+várias estratégias ou ficar só na que você gosta.
+Dificuldade: joguei no difícil. Desafiador, embora menos difícil que
+outros jogos que costumo jogar — morri bem pouco. Mas a dificuldade fica num
+ponto em que é interessante jogar o tempo todo; nunca fica fácil. As lutas
+opcionais mais difíceis podiam ser frustrantes, mas no bom sentido ("daqui a
+pouco eu volto mais forte pra te matar"), e a recompensa costumava estar à
+altura da dificuldade.
+Exploração: meio simples, sem riscos — é só andar, pegar item e ver o
+cenário, e dá para evitar combate facilmente. Mas o cenário é tão interessante
+que dá vontade de explorar, e sempre tem recompensa no fim. Eu ia montando um
+mapa na cabeça para garantir que tinha passado por todos os lugares.
+Personagens e NPCs: interação sempre muito boa. Em muitos jogos conversar
+com NPC fica sem graça depois de um tempo, só blá-blá-blá; aqui não. É sempre
+ótimo interagir porque você vai conhecendo o mundo e a história. Tudo muito
+bem elaborado, reações naturais e orgânicas, nada forçado.
+Arte e trilha sonora: são coisas com que normalmente não ligo muito, mas
+aqui se destacaram e vale registrar. Cenários, monstros, personagens,
+animações — arte de qualidade altíssima. Trilha sonora fantástica.
+História: a melhor que já vi num jogo, e talvez uma das melhores em
+qualquer mídia. Começa com mistério e, à medida que avança, não só escala nem
+só começa a resolver: fica no equilíbrio perfeito de sempre entregar pedaços
+da história trazendo mais perguntas junto. Você se sente resolvendo o mistério
+ao mesmo tempo em que ele se aprofunda. E a resolução é muito satisfatória:
+faz 100% de sentido, tem peso, impacto e emoção.
+Tudo o resto por si só já faria um jogo 10. A história é o que coloca ele
+acima de tudo.
