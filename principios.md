@@ -222,7 +222,7 @@ Exploração recompensadora
 
 Relevância: 3
 Confiança: Média
-Sustentado por: The Legend of Zelda (BotW / TotK), Hollow Knight, System Shock, Prey (2017), Clair Obscur: Expedition 33 (exploração sem risco nenhum, sustentada por cenário interessante e recompensa garantida no fim). Contraexemplos (não dependem de exploração): Portal, Half-Life 2, Max Payne.
+Sustentado por: The Legend of Zelda (BotW / TotK), Hollow Knight, System Shock, Prey (2017), Clair Obscur: Expedition 33 (exploração sem risco nenhum, sustentada por cenário interessante e recompensa garantida no fim). Contraexemplo: Skyrim (tropeçar na dungeon antes da quest esvazia o lugar de significado; sem contexto, vira corredor com loot). Contraexemplos (não dependem de exploração): Portal, Half-Life 2, Max Payne.
 
 Descrição
 
@@ -265,6 +265,34 @@ Entretanto, prefiro que os principais mistérios sejam respondidos ao longo da n
 Não é necessário explicar absolutamente tudo, mas gosto de sentir que houve uma conclusão satisfatória.
 
 Dark Souls é um bom exemplo de exceção: gosto muito do jogo apesar de não gostar da forma fragmentada como a história é apresentada.
+
+
+Fio condutor que não se esgota
+
+Relevância: 4
+Confiança: Alta
+Sustentado por: Prey (2017), Sunless Skies, The Elder Scrolls V: Skyrim.
+Relacionado: Sunless Sea, Dark Souls (série).
+
+Descrição
+
+Preciso de algo me puxando para o próximo passo, do início ao fim. Esse algo pode mudar de natureza ao longo do jogo — não precisa ser sempre o mesmo —, mas não pode simplesmente acabar e deixar o vazio.
+
+Os candidatos típicos são tensão (avançar custa algo), progressão (avançar paga algo) e curiosidade (avançar revela algo). Um pode substituir o outro. Nenhum precisa durar o jogo inteiro. Mas quando um se esgota sem substituto, o jogo vira trâmite e eu paro — mesmo gostando dele até ali.
+
+Evidência
+
+- Prey (nota 9): no terço final a tensão sumiu (recurso sobrando, nenhuma luta difícil) e mundo, backtracking e side quests assumiram o lugar. Funcionou.
+- Sunless Skies (nota 7): tensão sumiu ao ficar forte; o plano era a lore assumir, mas sem embarcar na leitura não sobrou nada. Virou ir de ilha em ilha por burocracia.
+- Skyrim (nota 8): com os melhores itens upados e encantados, a progressão acabou — e a exploração perdeu o sentido junto, porque explorar paga em item e level. As quests deveriam assumir e não instigaram. Encerrei na main quest.
+
+Observações
+
+Não confundir com "Arrastar / perder o ritmo". Lá o problema é o jogo ser longo ou massante demais para o que sustenta. Aqui o problema é específico: existia um motor puxando e ele parou, sem outro assumir. Skyrim é ilustrativo — 40h felizes antes do esgotamento, não tédio desde o começo.
+
+Também não confundir com o antipatrão de sandbox sem objetivo claro. Skyrim tem quest principal e final; o problema não foi ausência de direção desde o início, foi a direção se esgotar no meio do caminho.
+
+Implicação prática para recomendações: desconfiar de jogos muito extensos cuja única força motriz é progressão de personagem ou de equipamento, porque essa costuma ser a que mais cedo satura.
 
 
 Antipadrões
