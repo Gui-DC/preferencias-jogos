@@ -233,3 +233,31 @@ perdeu o propósito.
 Nota: recusei virar lobisomem e por isso abandonei a linha dos Companions no
 meio. Encontrei a entrada do Colégio de Winterhold já na hora de encerrar e
 pulei. Não fiz nenhuma linha de facção inteira.
+
+## INSIDE
+
+**Nota:** 6
+**Status:** Jogado
+**Impressão:**
+Bem legal. Vibe melhor que a do Little Nightmares e puzzles mais
+interessantes.
+
+## Little Nightmares
+
+**Nota:** 5
+**Status:** Jogado
+**Impressão:**
+Terminei, mas não gostei muito. Puzzles piores que os do INSIDE e história
+pior também. A caracterização foi a parte mais legal, melhor que a do INSIDE.
+
+## Onimusha: Way of the Sword
+
+**Nota:** 8
+**Status:** Jogado
+**Impressão:**
+Bom jogo. Talvez a melhor boss fight final que já joguei.
+No começo me pareceu meio genérico, mas por um erro de expectativa meu, não
+por defeito do jogo: ele tem elementos de soulslike, e isso me fez achar que
+era desse gênero. Não é. Como soulslike ele seria médio (nota 7). Depois que
+percebi o estilo dele, entendi melhor como me divertir e a nota subiu para 8.
+Como action RPG é um bom jogo.
