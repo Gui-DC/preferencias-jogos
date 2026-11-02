@@ -40,7 +40,6 @@
 - Alien: Isolation
 - Amnesia: A Machine for Pigs
 - Amnesia: Rebirth
-- Amnesia: The Bunker
 - Amnesia: The Dark Descent
 - Among the Sleep - Enhanced Edition
 - Among Us
@@ -314,7 +313,6 @@
 - In Sound Mind
 - INDUSTRIA
 - Infinifactory
-- INSIDE
 - Insurmountable
 - Into The Breach
 - Invincible Presents: Atom Eve
@@ -365,7 +363,6 @@
 - LIMBO
 - LISA: The Joyful - Definitive Edition
 - LISA: The Painful - Definitive Edition
-- Little Nightmares Enhanced Edition
 - LONESTAR
 - Loop Hero
 - Lords Of The Fallen
@@ -634,7 +631,6 @@
 - The Drone Racing League Simulator
 - The Dungeon Of Naheulbeuk: The Amulet Of Chaos
 - The Elder Scrolls Online
-- The Elder Scrolls V: Skyrim
 - The Escapists
 - The Evil Within
 - The Evil Within 2
