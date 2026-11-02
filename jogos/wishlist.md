@@ -18,3 +18,17 @@
 **Riscos:**
 
 ---
+
+## Amnesia: The Bunker
+
+**Prioridade:** 3
+**Status:** Adquirido
+**Hipótese:**
+Caso de manual do princípio "Tensão na travessia": avançar custa recurso,
+voltar não é barato e o terreno é desconhecido. Curto e com começo, meio e fim
+fechados, o que também conversa com "Jornada completa".
+**Riscos:**
+É horror de verdade, e a ameaça não pode ser vencida, só evitada. Se a
+diversão depender de se sentir competente e virar o jogo contra o inimigo, vai
+na direção oposta.
+Comecei a jogar e parei por medo, não por tédio. Pretendo voltar.
