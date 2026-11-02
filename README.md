@@ -48,6 +48,7 @@ Por isso, recomendações devem ser baseadas principalmente nos princípios docu
 - `jogos/backlog.md` — jogos que possuo mas ainda não joguei (inventário, não intenção)
 - `jogos/wishlist.md` — jogos que pretendo jogar, com prioridade e hipótese
 - `nao-recomendar.md` — jogos já descartados, com o motivo
+- `observacoes.md` — padrões em observação e conclusões descartadas
 - `historico.md` — changelog de mudanças em princípios (uso pessoal, para auditoria)
 
 Regras de edição e convenções: ver `CLAUDE.md`.

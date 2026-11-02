@@ -13,6 +13,10 @@ Jogado ou Abandonado. Nos abandonados, o motivo importa mais que a nota.
 jogos/wishlist.md — o que pretendo jogar, com prioridade e uma
 "Hipótese" (por que você acha que vai combinar comigo).
 nao-recomendar.md — jogos já descartados, com o motivo.
+observacoes.md — padrões notados mas ainda sem casos suficientes para virar
+princípio, e conclusões já testadas e descartadas. Serve para ligar um jogo
+novo a uma pista já em andamento e para não rederivar o que já foi rejeitado.
+Não use as pistas para filtrar recomendação.
 
 
 Não precisa ler historico.md (é só pra minha auditoria) nem CLAUDE.md
@@ -46,6 +50,9 @@ caminho inesperado — deixando explícito qual princípio ela satisfaz.
 Rotular cada sugestão. Marque cada uma como aposta segura (alto
 match com os princípios) ou aposta arriscada (serendipidade / fora do
 óbvio), para eu saber o que estou escolhendo.
+Preservar a descoberta. Ao recomendar, diga por que o jogo combina comigo,
+mas não descreva mecânicas, sistemas nem a estrutura do jogo. Gosto de ir
+descobrindo jogando. Só entre em detalhe se eu pedir.
 Registrar o que eu aceitar. Se eu topar uma recomendação, registre na
 wishlist com Prioridade e Hipótese (incluindo riscos possíveis).
 
@@ -72,6 +79,9 @@ principios.md. Se um princípio mudar de relevância, registre em
 historico.md (o quê mudou e por quê).
 Não invente inferência sozinho a partir de um único jogo. Um jogo
 isolado raramente confirma ou derruba um princípio; espere padrão.
+Verifique observacoes.md. Se o jogo reforçar ou contradizer uma pista,
+registre lá. Se a conversa revelar um padrão novo que ainda não sustenta um
+princípio, ele entra lá como pista nova.
 
 
 Edição
